@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "pooria-sarkhanzade (PooriaGG)",
   "license": "ISC",
   "dependencies": {
     "@alch/alchemy-web3": "^1.4.7",
